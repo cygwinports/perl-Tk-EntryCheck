@@ -1,0 +1,11 @@
+CPAN_AUTHOR="strat"
+inherit perl
+
+NAME="perl-Tk-EntryCheck"
+VERSION=0.04
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Wrapper for Perl Tk::Entry -validate"
+DESCRIPTION="This module acts as a little wrapper around Tk::Entry and adds an
+easy to use interface to -validate and -validatecommand for controlling length
+and content of an entry widget."
