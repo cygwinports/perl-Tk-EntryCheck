@@ -3,7 +3,7 @@ inherit perl
 
 NAME="perl-Tk-EntryCheck"
 VERSION=0.04
-RELEASE=2
+RELEASE=3
 CATEGORY="Perl"
 SUMMARY="Wrapper for Perl Tk::Entry -validate"
 DESCRIPTION="This module acts as a little wrapper around Tk::Entry and adds an
